@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python>=4.8,<5  # OpenCV 5 removed CascadeClassifier (face detector)
+scikit-learn
+matplotlib
+pillow
+numpy
+streamlit
